@@ -50,7 +50,7 @@
                             alt="A white-necked jacobin hummingbird perches gracefully on a thin branch." />
                     </figure>
                     <div class="card-body">
-                        <h2 class="card-title">Research round-up: What will Australia’s ecosystems look like in 2100?
+                        <h2 class="card-title">Discovering new biodiversity hotspots worldwide
                         </h2>
                         <!-- <p>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt modi animi natus quibusdam aliquam vel cum et qui sapiente facere, alias accusantium saepe at, doloremque laboriosam nihil dolorum maxime excepturi! Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, consequuntur fuga velit nostrum saepe quis voluptas nemo nam aliquam doloribus facilis iure necessitatibus eum amet id architecto reiciendis voluptate ut. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis, unde! Quam a, nulla aut tempora nihil quos aliquam accusantium provident voluptas obcaecati, esse voluptatibus necessitatibus consequuntur? Adipisci ab sint recusandae.
